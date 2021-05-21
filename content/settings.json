@@ -1,0 +1,10 @@
+{
+  "title": "Nuxt Content",
+  "url": "https://saqtaka.com",
+  "logo": {
+    "light": "/logo-light.svg",
+    "dark": "/logo-dark.svg"
+  },
+  "github": "saqtaka/saqtaka-blog-nuxt-content-theme-docs",
+  "twitter": "@saqtaka"
+}
