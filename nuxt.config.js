@@ -2,6 +2,24 @@ import theme from '@nuxt/content-theme-docs'
 
 export default theme({
   target: 'static',
+  head: {
+    script: [
+      { src: 'https://www.googletagmanager.com/gtag/js?id=G-NKKF1WFDXE', async: true },
+      {
+        hid: 'gtag',
+        type: 'text/javascript',
+        innerHTML: `window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+                  
+                    gtag('config', 'G-NKKF1WFDXE');`
+      }
+    ],
+    __dangerouslyDisableSanitizersByTagID: {
+      clarity: ['innerHTML'],
+      gtag: ['innerHTML']
+    }
+  },
   docs: {
     primaryColor: '#00CD81'
   },
