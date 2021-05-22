@@ -4,7 +4,7 @@ export default theme({
   target: 'static',
   head: {
     script: [
-      { src: 'https://www.googletagmanager.com/gtag/js?id=G-NKKF1WFDXE', async: true },
+      { src: 'https://www.googletagmanager.com/gtag/js?id=G-WVV9HZW4RT', async: true },
       {
         hid: 'gtag',
         type: 'text/javascript',
@@ -12,7 +12,7 @@ export default theme({
                     function gtag(){dataLayer.push(arguments);}
                     gtag('js', new Date());
                   
-                    gtag('config', 'G-NKKF1WFDXE');`
+                    gtag('config', 'G-WVV9HZW4RT');`
       }
     ],
     __dangerouslyDisableSanitizersByTagID: {
