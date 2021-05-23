@@ -6,7 +6,7 @@ category: 'docker'
 ---
 
 
-## stats
+## コンテナのCPUやメモリの確認 stats
 DockerでCPUやメモリの状態を把握することができます。
 
 ```bash
