@@ -1,15 +1,15 @@
 ---
-title: dockerコマンドリファレンス
+title: Dockerでよく使うコマンド
 description: ''
-position: 10
+position: 1000
 category: 'docker'
 ---
 
 
-## Docker_COMMAND_stats
+## stats
 DockerでCPUやメモリの状態を把握することができます。
 
-```
+```bash
 docker stats [container-1] [container-2]
 ```
 
