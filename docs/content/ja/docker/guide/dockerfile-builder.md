@@ -1,11 +1,10 @@
 ---
-title: dockerfile
+title: dockerfileでコンテナ作成後の作業をなくす
 description: ''
 position: 10
 category: 'docker'
 ---
 
-# Docker_Dockerfile_Dockerfileでコンテナ作成後の作業をなくす
 ## はじめに
 ### Dockerfileとは
 自分オリジナルのイメージを作るためのファイルです。
