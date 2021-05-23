@@ -1,12 +1,12 @@
 ---
-title: docker基本操作
+title: Dockerとは？基本的な操作
 description: ''
-position: 10
+position: 9
 category: 'docker'
 ---
 
 
-# Docker_FIRSTSTEP_Dockerの基本知識
+#Dockerの基本知識
 ## ファイルの転送
 コンテナにファイルを送る
 ```
