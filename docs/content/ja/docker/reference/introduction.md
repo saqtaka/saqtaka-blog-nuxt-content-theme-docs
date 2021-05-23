@@ -1,5 +1,5 @@
 ---
-title: Dockerでよく使うコマンド
+title: Dockerでよく使うコマンドを紹介
 description: ''
 position: 1000
 category: 'docker'
