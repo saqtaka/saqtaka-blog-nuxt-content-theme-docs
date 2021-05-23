@@ -4,7 +4,7 @@ description: ''
 position: 1
 category: 'Nuxt'
 ---
-## コード
+## やり方
 `nuxt.config.js`に追加します。
 
 `G-WVV9HZW4RT`の部分は読み替えて下さい。
