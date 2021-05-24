@@ -72,3 +72,6 @@ docker ps -a --no-trunc
 
 ## さいごに
 原因特定する際に役立てば幸いです。
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
