@@ -74,3 +74,6 @@ sudo docker stop [mysql] [wordpress]
 # コンテナ削除
 sudo docker rm [mysql] [wordpress]
 ```
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
