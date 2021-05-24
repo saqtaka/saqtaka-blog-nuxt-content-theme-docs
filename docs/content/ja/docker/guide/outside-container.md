@@ -19,3 +19,6 @@ docker exec [container-name] [command]
 docker exec wordpress wp menu location list --allow-root --path="/var/www/html/"
 ```
 上の例だと`wordpress`というコンテナに`wp menu location list --allow-root --path="/var/www/html/"`というコマンドを実行しています。
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
