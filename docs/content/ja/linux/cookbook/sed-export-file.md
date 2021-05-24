@@ -26,3 +26,5 @@ sed -i '1,3d' $file
 echo `sed '1,3d' $file` > $file
 ```
 
+## 関連記事
+<CategoryPost :category-name-props="category" />
