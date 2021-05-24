@@ -19,7 +19,7 @@
         >
           <p
             v-if="category"
-            class="mb-2 text-gray-500 uppercase tracking-wider font-bold text-sm lg:text-xs"
+            class="pt-1 mb-2 text-gray-500 uppercase tracking-wider font-bold text-sm lg:text-xs"
           >{{ category }}</p>
           <ul>
             <li v-for="doc of docs" :key="doc.slug" class="text-gray-700 dark:text-gray-300">
