@@ -21,3 +21,6 @@ ssh-keygen -R [hostname]
 
 ## シェルスクリプトがうまく実行できないとき
 うまくいかないコマンドに`echo`をつけて実行してみると、変数がうまく持ってこれてなかったりするのを発見できる。コマンドの前にechoをつけるだけなので簡単に試せる。
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
