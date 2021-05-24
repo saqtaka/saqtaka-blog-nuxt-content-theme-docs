@@ -31,3 +31,5 @@ export default {
 }
 ```
 
+## 関連記事
+<CategoryPost :category-name-props="category" />
