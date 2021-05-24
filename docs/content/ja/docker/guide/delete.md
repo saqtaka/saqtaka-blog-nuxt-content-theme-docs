@@ -54,3 +54,6 @@ Are you sure you want to continue? [y/N] y
 
 ## 参考
 [https://docs.docker.com/engine/reference/commandline/rm/](https://docs.docker.com/engine/reference/commandline/rm/)
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
