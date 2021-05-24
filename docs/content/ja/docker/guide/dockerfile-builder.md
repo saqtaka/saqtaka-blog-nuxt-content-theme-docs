@@ -116,3 +116,6 @@ RUN echo 'Auth start'; \
 ## 参考
 
 [http://docs.docker.jp/engine/articles/dockerfile_best-practice.html](http://docs.docker.jp/engine/articles/dockerfile_best-practice.html)
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
