@@ -121,3 +121,6 @@ Dockerの公式ドキュメントサイトがあります。
 [https://docs.docker.com](https://docs.docker.com)
 
 で137とかエラーコードを入力すれば情報が出てきたので役立ちそうです。
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
