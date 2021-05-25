@@ -1,5 +1,5 @@
 ---
-title: saqtaka blog
+title: blog
 description: ''
 position: 1
 category: ''
