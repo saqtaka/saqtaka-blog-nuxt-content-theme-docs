@@ -20,3 +20,6 @@ ip address show
 ```bash
 nmtui
 ```
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
