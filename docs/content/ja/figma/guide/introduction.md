@@ -15,3 +15,6 @@ figmaで画像のサイズ変更を縦横比を変えずにすることができ
 テキストのままより余白が調整しやすくなります。
 
 1. `[command]` + `[shift]` + `o`
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
