@@ -26,3 +26,6 @@ for file in `find . -maxdepth 1 -type f | sed 's!^.*/!!'`; do
   sed -i -e '5i <!-- /wp:more -->' $file
 done
 ```
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
