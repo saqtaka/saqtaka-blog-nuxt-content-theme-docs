@@ -10,6 +10,8 @@ category: ''
 
 [https://amzn.to/3wv43bl](https://amzn.to/3wv43bl)
 
+<a target="_blank"  href="https://www.amazon.co.jp/gp/product/4274064069/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4274064069&linkCode=as2&tag=saqtaka-22&linkId=af60a9484d486b36bd4d089e0b576202"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=4274064069&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=saqtaka-22" ></a>
+
 ## 記事一覧
 <PostList />
 
