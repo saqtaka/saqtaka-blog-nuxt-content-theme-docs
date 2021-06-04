@@ -17,3 +17,4 @@ Googleの公式サイトや、Googleの内部の人の発言を正しい情報�
 
 1. [Google 検索セントラル](https://developers.google.com/search/?hl=JA)
 1. [Google 検索セントラル ブログ](https://developers.google.com/search/blog?hl=ja)
+1. [Google Search Central | YouTube](https://m.youtube.com/user/GoogleWebmasterHelp)
