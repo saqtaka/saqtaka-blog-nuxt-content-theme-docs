@@ -14,5 +14,5 @@ category: 'SEO'
 
 ## 正しい情報とは何か
 Googleの公式サイトや、Googleの内部の人の発言を正しい情報だと考えます。
-具体的に紹介していきます。
 
+1. [Google 検索セントラル](https://developers.google.com/search/?hl=JA)
