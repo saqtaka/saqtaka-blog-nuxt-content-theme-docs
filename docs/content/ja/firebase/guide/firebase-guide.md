@@ -1,5 +1,5 @@
 ---
-title: Firebaseで出来ること
+title: Firebaseで出来るちょっと高度なこと
 description: ''
 position: 1
 category: 'Firebase'
