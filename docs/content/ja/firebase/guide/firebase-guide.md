@@ -16,8 +16,8 @@ Admin SDKの`setCustomUserClaims`を使うことで実現出来ます。
 
 ## Firebaseのデプロイを分割する
 `--only`オプションを使う。
-例えば、functionsで2つのfunctionだけデプロイする場合。
+例えば、functionsであるfunctionだけデプロイする場合。
 
 ```bash
-firebase deploy --only functions:function1,functions:function２
+firebase deploy --only functions:function1
 ```
