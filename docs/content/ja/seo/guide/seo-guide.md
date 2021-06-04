@@ -12,7 +12,7 @@ category: 'SEO'
 
 このサイトでは少しずつGoogleの公式情報や内部の人の発言をもとに、正しい情報を書いていきます。
 
-## 正しい情報とは何か
+## 正しいSEO情報とは何か
 Googleの公式サイトや、Googleの内部の人の発言を正しい情報だと考えます。
 
 1. [Google 検索セントラル](https://developers.google.com/search/?hl=JA)
