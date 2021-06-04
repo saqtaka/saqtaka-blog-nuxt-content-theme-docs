@@ -10,6 +10,8 @@ Firebaseで出来ることを紹介していきます。
 ## Firebase Authenticationで管理者ユーザーを作る
 Admin SDKの`setCustomUserClaims`を使うことで実現出来ます。
 
+`setCustomUserClaims`は毎回上書きされるので注意が必要です。
+
 [カスタム クレームとセキュリティ ルールによるアクセスの制御 | Firebase](https://firebase.google.com/docs/auth/admin/custom-claims)
 
 ## Firebaseのデプロイを分割する
