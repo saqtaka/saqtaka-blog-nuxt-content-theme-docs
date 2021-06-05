@@ -21,3 +21,9 @@ Admin SDKの`setCustomUserClaims`を使うことで実現出来ます。
 ```bash
 firebase deploy --only functions:function1
 ```
+
+## Firebase hostingを使ってVPN内にサイトデプロイすることができるか
+Firebase公式サイトのサイト内検索にVPNと入力して検索してみました。
+
+その結果、2021年6月5日の時点ではFirebase hostingでVPNという単語が使われていませんでした。
+なので現時点ではFirebase hostingを使ってVPN内にサイトをデプロイすることができないと思われます。
