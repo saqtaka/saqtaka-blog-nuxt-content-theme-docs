@@ -1,5 +1,5 @@
 ---
-title: iPhoneやiPadで出来るちょっと高度なこと
+title: iPhoneやiPadの便利な使い方
 description: ''
 position: 1
 category: 'Other'
