@@ -8,7 +8,7 @@ category: 'docker'
 ## はじめに
 こんにちは、サクたか([\@saqtaka](https://twitter.com/saqtaka))です。
 
-Dockerで運用しているWordPressにある日突然Error establishing a database connectionとでて記事が表示されなくなっていました。
+Dockerで運用しているWordPressにある日突然`Error establishing a database connection`とでて記事が表示されなくなっていました。
 
 ```
 Error establishing a database connection
