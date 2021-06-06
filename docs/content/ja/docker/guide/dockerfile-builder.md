@@ -36,9 +36,6 @@ RUN echo 'start'; \
 ```
 コンテナのOSをアップデートするコマンドを実行するDockerfileです。
 
-このファイルを継続的に直していきたいのでGithubにアップロードしました。
-
-[https://github.com/make-ship/wp](https://github.com/make-ship/wp)
 
 ### 2. DockerfileをGithubからダウンロードしてくる
 サーバーにgitをインストールしてGithubからクローンしてきます。
