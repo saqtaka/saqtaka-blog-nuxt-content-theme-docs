@@ -54,3 +54,6 @@ docker ps -a
 /usr/bin/docker ps -a
 ```
 に変更して実行してみます。パスを全て指定して実行することで、パスが通ってなくてもコマンドが実行できるので問題の特定に役立ちます。
+
+## 関連記事
+<CategoryPost :category-name-props="category" />

@@ -44,3 +44,6 @@ sudo reboot
 ```
 
 これでログが日本時間で記録されるようになります。
+
+## 関連記事
+<CategoryPost :category-name-props="category" />

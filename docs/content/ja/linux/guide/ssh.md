@@ -47,3 +47,6 @@ sudo sed -i "s/\#Port 22/Port $ssh_port/" /etc/ssh/sshd_config
 # 設定を反映
 service sshd reload
 ```
+
+## 関連記事
+<CategoryPost :category-name-props="category" />

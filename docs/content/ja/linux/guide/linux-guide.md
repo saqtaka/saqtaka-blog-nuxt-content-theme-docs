@@ -88,3 +88,6 @@ en_US.UTF-8
 ## sslの脆弱性をテストする
 
 [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
+
+## 関連記事
+<CategoryPost :category-name-props="category" />

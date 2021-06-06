@@ -182,3 +182,6 @@ top
 sudo su -
 ```
 でもこれはよく使うわけではない。
+
+## 関連記事
+<CategoryPost :category-name-props="category" />
