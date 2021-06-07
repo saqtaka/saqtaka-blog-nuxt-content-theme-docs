@@ -10,9 +10,12 @@ Active Directoryでグループポリシーを変更した後に、端末側で�
 
 ## グループポリシーを強制的にアップデートする
 
-`gpupdate /force`
-
+```powershell
+gpupdate /force
+```
 
 ## グループポリシーを確認する
 
-`rsop`
+```powershell
+rsop
+```
