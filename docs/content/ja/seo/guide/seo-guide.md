@@ -33,3 +33,7 @@ Googleの公式サイトや、Googleの内部の人の発言を正しい情報�
 > いいえ。301 や 302 のリダイレクトは PageRank の損失につながりません。
 
 [URL の変更を伴うサイト移転 | Google 検索セントラル](https://developers.google.com/search/docs/advanced/crawling/site-move-with-url-changes?hl=ja)
+
+## 今後書いていきたい項目
+* 内部リンクについて
+* URLの最後にスラッシュについて
