@@ -2,7 +2,7 @@
 title: Firestore Liteとは？
 description: ''
 position: 10
-category: 'firebase'
+category: 'Firebase'
 ---
 ## Firestore Liteって何?
 FirebaseのJavascript SDKにFirestore Liteなるものが追加されるそうです。

@@ -35,6 +35,7 @@ export default theme({
       file: 'en-US.js',
       name: 'English'
     }],
-    defaultLocale: 'ja'
+    defaultLocale: 'ja',
+    detectBrowserLanguage: false
   },
 })
