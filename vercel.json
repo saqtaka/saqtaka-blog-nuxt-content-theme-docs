@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/docker/trouble/not-start", "destination": "https://litely.net/post/tech/docker/trouble/non-start/" }
+  ]
+}
