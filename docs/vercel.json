@@ -1,6 +1,7 @@
 {
   "redirects": [
     { "source": "/docker/trouble/not-start", "destination": "https://litely.net/post/tech/docker/trouble/non-start/" },
-    { "source": "/firebase/guide/firestore-lite", "destination": "https://litely.net/post/tech/firebase/guide/firestore_lite/" }
+    { "source": "/firebase/guide/firestore-lite", "destination": "https://litely.net/post/tech/firebase/guide/firestore_lite/" },
+    { "source": "/docker/guide/outside-container", "destination": "https://litely.net/post/tech/docker/reference/exec/" }
   ]
 }
